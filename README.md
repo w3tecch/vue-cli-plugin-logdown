@@ -7,7 +7,7 @@
 <p align="center"></p>
 
 <p align="center">
-  <b>A simple plugin for logging with [logdown.js](http://caiogondim.github.io/logdown.js/).</b></br>
+  <b>A simple plugin for logging with <a href="http://caiogondim.github.io/logdown.js/">logdown.js</a>.</b></br>
   <sub>Made with ❤️ by <a href="https://github.com/w3tecch">w3tech</a> and <a href="https://github.com/w3tecch/vue-example-app/graphs/contributors">contributors</a></sub>
 </p>
 
